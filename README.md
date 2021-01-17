@@ -1,6 +1,7 @@
 ### AFFINITY DESIGNER ICON
 Just a quick remake of old AD Icons into BigSur style 
 
+![alt text](https://github.com/thetrung/AffinityDesigner_Icons/blob/master/comparison.png)
 
 #### NOTE 
 As I don't like the current AD Icon at 1.8.6, as it didn't suit BigSur Style, while also less appealing than previous logo, I changed it. Use it at your risk !
